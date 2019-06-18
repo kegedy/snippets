@@ -1,3 +1,6 @@
+
+#Source: Python Essential Reference by David M. Beazley
+
 import multiprocessing
 import time
 
