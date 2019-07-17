@@ -1,4 +1,4 @@
-<h3>Concurrency<h3>
+<h3>Concurrency
 
 source: Python Essential Reference: David M. Beazley
 
